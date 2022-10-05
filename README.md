@@ -84,3 +84,8 @@ npm config set registry=https://registry.npmjs.org/
 npm config set registry=https://registry.npm.taobao.org/
 npm config get registry
 ```
+
+# git 改变远程仓库地址
+```
+git remote set-url origin git@github.com:mshmyw/krill-frame.git
+```
